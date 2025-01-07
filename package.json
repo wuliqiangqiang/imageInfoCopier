@@ -3,7 +3,7 @@
   "publisher": "ryannnnn",
   "displayName": "image Info Copier",
   "description": "A quick get images sizes and path extension 一个快速获取图片宽度和路径的拓展插件",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "ryan wu",
   "icon": "images/icon.jpg",
   "engines": {
@@ -26,8 +26,8 @@
     "keybindings": [
       {
         "command": "imageinfocopier.doCopy",
-        "key": "ctrl+a",
-        "mac": "cmd+a"
+        "key": "shift+a",
+        "mac": "shift+a"
       }
     ],
     "menus": {
